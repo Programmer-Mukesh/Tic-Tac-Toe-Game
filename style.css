@@ -109,7 +109,7 @@ h2{
     text-align: center;
   }
   .box2{
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
 }
 
@@ -124,12 +124,15 @@ h2{
     font-size: 17vw !important;
   }
   h2 {
-    font-size: 27px;
+    font-size: 25px;
   }
   p, .turnInfo{
-    font-size: 23px;  
+    font-size: 21px;  
     color: rgb(74, 73, 73);
     font-weight: 500;
   }
-
+  .gif{
+  width: 100px;
+  margin-top: 30px;
+  }
 }
